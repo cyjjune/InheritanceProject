@@ -1,4 +1,4 @@
-public class BullentinBoard{
+public class BulletinBoard{
   
   public static void main(String[] args){
     Club Photography = new Club( "B303", "Ms.D", 1540, 60 );
